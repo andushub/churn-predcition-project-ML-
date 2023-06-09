@@ -1,2 +1,11 @@
-# churn-predcition-project-ML-
-This is a project to predict users who leave the music streaming subscription service
+# 프로젝트 소개
+
+## 주제
+- 음원 스트리밍 서비스 이탈 유저 예측
+
+## 참여인원
+- 박무연, 박지호, 안태진, 천정은
+
+## 프로젝트 설명
+- 매월 요금을 지불하는 구독 서비스에서 고객의 이탈은 수익의 감소로 연결
+- 이탈 고객의 특징 찾고 예측할 수 있는 모델 구
